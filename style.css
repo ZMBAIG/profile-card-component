@@ -61,7 +61,7 @@ section {
   transform: translate(-50%, -50%);
   border: 6px solid white;
 }
-h2,
+h1,
 p {
   font-size: 1.25em;
   text-align: center;
@@ -87,14 +87,12 @@ span {
   text-align: center;
   line-height: 0.5;
 }
-.sub-stat li {
-  font-size: 1.5em;
+.sub-stat p {
+  font-size: 1em;
   font-weight: 700;
   color: var(--primary-clr-02);
 }
-.sub-stat p {
-  font-size: 1em;
-}
+
 
 /*  ================================Footer================================ */
 .attribution {
